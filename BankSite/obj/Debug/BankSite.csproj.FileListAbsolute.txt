@@ -62,3 +62,5 @@ C:\Users\parag\Source\Repos\BankSite\BankSite\bin\roslyn\System.IO.FileSystem.dl
 C:\Users\parag\Source\Repos\BankSite\BankSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
 C:\Users\parag\Source\Repos\BankSite\BankSite\bin\roslyn\vbc.exe.config
 C:\Users\parag\Source\Repos\BankSite\BankSite\bin\roslyn\vbc.rsp
+C:\Users\parag\Source\Repos\BankSite\BankSite\obj\Debug\BankSite.Migrations.InitialCreate.resources
+C:\Users\parag\Source\Repos\BankSite\BankSite\obj\Debug\BankSite.csproj.GenerateResource.Cache
