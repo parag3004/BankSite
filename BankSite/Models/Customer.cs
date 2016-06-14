@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace BankSite.Models
 {
-    class Customer
+    public class Customer
     {
+        public int CustomerID { get; set; }
+        public string CustomerName { get; set; }
+        public string AccountType { get; set; }
     }
 }
