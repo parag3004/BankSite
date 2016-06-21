@@ -1,13 +1,24 @@
 ﻿<!DOCTYPE html>
-
 <html>
 <head>
-    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <title>@ViewBag.Title - Yaksh Bank</title>
 </head>
 <body>
-    <h1>Yaksh Bank</h1>
-    <div>
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Yaksh Bank</h1>            
+            <p>
+                For your all banking needs.
+            </p>           
+        </div>
+    </div>
+  
+    <div class="container">
         @RenderBody()
     </div>
 </body>
